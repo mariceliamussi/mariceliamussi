@@ -1,7 +1,7 @@
 # Olá, eu sou a Maricélia Mussi! 👋
 
 Desenvolvedora de **Sistemas para Internet** em especialização em **IA & Machine Learning**.  
-Focada em criar soluções inteligentes e automatizar o mundo com **Python**.
+Focada em  sempre aprender.
 
 ---
 
@@ -31,4 +31,3 @@ Focada em criar soluções inteligentes e automatizar o mundo com **Python**.
 
 ---
 
-*"Transformando dados em soluções e rotinas em automações."*
